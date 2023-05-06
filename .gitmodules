@@ -1,0 +1,6 @@
+[submodule "FAST_LIO"]
+	path = FAST_LIO
+	url = https://github.com/dbaldzhiev/FAST_LIO.git
+[submodule "SC-A-LOAM"]
+	path = SC-A-LOAM
+	url = https://github.com/dbaldzhiev/SC-A-LOAM.git
